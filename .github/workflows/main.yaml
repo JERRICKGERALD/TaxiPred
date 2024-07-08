@@ -27,9 +27,9 @@ jobs:
       run: echo "Running unit tests"
   
   build-and-push-ecr-images:
-    - name: Continuous Delivery
-      needs: Continuous Integration
-      runs-on: ubuntu-latest
+    name: Continuous Delivery
+    needs: Continuous Integration
+    runs-on: ubuntu-latest
 
       steps:
       - name: Checkout Code
