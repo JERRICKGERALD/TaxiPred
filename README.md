@@ -14,18 +14,3 @@ GIT COMMAND: ('git status') -> ('git add .') -> ('git commit -m "first commit"')
 
 Create setup file, requirements.txt and src folder, inside src create __init__.py 
 
-#### Check setup file and requirements.txt
-
-### 2. Data Collection
-
-### 3. Data Processing
-
-### 4. Data Exploration
-
-### 5. Data Visualization
-
-### 6. Model Building
-
-### 7. Model Evaluation
-
-### 8. Model Deployment
